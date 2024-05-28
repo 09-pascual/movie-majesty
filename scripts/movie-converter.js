@@ -1,7 +1,6 @@
 import { movies } from './movies-data.js';
 
 
-
 export const generateMoviesHTML = () => {
     let movieHTML = '';
  
@@ -20,4 +19,3 @@ export const generateMoviesHTML = () => {
     return movieHTML
  };
 
- 

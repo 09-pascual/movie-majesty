@@ -1,3 +1,4 @@
+
 export const movies = [
     {
         title: "Inception",
