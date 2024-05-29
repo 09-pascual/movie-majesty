@@ -15,7 +15,6 @@ export const generateMoviesHTML = () => {
             </article>
         `;
     }
- 
     return movieHTML
  }
 
